@@ -1,6 +1,6 @@
 ---
-title: "Why Clarity Is the New Competitive Advantage in Tech"
-date: 2025-03-07
+Title: "Why Clarity Is the New Competitive Advantage in Tech"
+Date: 2025-03-07
 ---
 
 In an industry that moves faster than language itself, clarity is now one of the most valuable skills a company can have. Every product, feature, and update depends on how well people can understand it. But as technology grows more complex, the way we describe it also becomes more confusing.
